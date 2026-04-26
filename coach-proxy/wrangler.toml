@@ -1,0 +1,6 @@
+name = "atobits-coach-proxy"
+main = "src/index.js"
+compatibility_date = "2026-04-13"
+
+[observability]
+enabled = true

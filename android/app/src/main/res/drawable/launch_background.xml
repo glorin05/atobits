@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Atobits splash screen - app branded -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Dark background to match app -->
+    <item android:drawable="@color/app_background" />
+</layer-list>

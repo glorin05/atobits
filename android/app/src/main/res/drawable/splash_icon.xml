@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Center the original 96x96 artwork inside a larger viewport to reduce perceived size -->
+    <group
+        android:translateX="52"
+        android:translateY="52">
+
+        <!-- Brand circle -->
+        <path
+            android:fillColor="#0075DE"
+            android:pathData="M48,0C21.49,0 0,21.49 0,48s21.49,48 48,48 48,-21.49 48,-48S74.51,0 48,0z" />
+
+        <!-- Check mark -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M39.8,63.5L25.6,49.3l5.7,-5.7 8.5,8.5L65.0,26.9l5.7,5.7z" />
+    </group>
+</vector>
